@@ -20,7 +20,7 @@ const AnimatedCounter = () => {
                 <div className="w-1/2 flex items-center justify-center">
                     <div className="bg-zinc-900 rounded-full w-[32rem] h-[32rem] flex items-center justify-center overflow-hidden shadow-lg">
                         <img
-                            src="/images/greg.jpg"
+                            src="images/greg.jpg"
                             alt="Headshot"
                             className="w-full h-full object-cover"
                         />

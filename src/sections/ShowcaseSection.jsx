@@ -44,7 +44,7 @@ const AppShowcase = () => {
                     {/* Left: First project */}
                     <div ref={seattleRef} className="first-project-wrapper w-1/2 flex items-center justify-center">
                         <div className="image-wrapper h-200 w-full overflow-hidden">
-                            <img src="/images/project1.jpg" alt="Seattle Housing" className="w-full h-full object-cover"/>
+                            <img src="images/project1.jpg" alt="Seattle Housing" className="w-full h-full object-cover"/>
                         </div>
                         <div className="text-content mt-4">
                             <h2>
@@ -60,7 +60,7 @@ const AppShowcase = () => {
                         <div className="project" ref={britishRef}>
                             <div className="image-wrapper h-100 w-full bg-[#FFEFDB] overflow-hidden">
                                 <img
-                                    src="/images/project2.jpg"
+                                    src="images/project2.jpg"
                                     alt="British Airways"
                                     className="w-full h-full object-cover"
                                 />
@@ -70,7 +70,7 @@ const AppShowcase = () => {
                         <div className="project" ref={heartRef}>
                             <div className="image-wrapper h-100 w-full bg-[#FFE7EB] overflow-hidden">
                                 <img
-                                    src="/images/project3.png"
+                                    src="images/project3.png"
                                     alt="Heart Disease Analysis"
                                     className="w-full h-full object-cover"
                                 />
