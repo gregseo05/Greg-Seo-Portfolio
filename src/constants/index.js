@@ -140,7 +140,7 @@ const expCards = [
         /*imgPath: "images/exp1.png",
         logoPath: "images/logo4.jpg",*/
         title: "Customer Data & Marketing Analyst",
-        date: "January 2017 - Jun 2025",
+        date: "May 2025 - August 2025",
         responsibilities: [
             "Managed and maintained large customer datasets to ensure accuracy and reliability.",
             "Analyzed customer trends and provided insights that influenced pricing and marketing strategies.",
